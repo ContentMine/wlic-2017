@@ -6,10 +6,10 @@ The permenant link to this page is: https://contentmine.github.io/wlic-2017
 
 ### Links to Demos
 #### WikiFactMine Links
-[aaraa](https://tarrow.github.io/aaraa/index.html)
-[fatameh](https://tools.wmflabs.org/fatameh/)
-[wikifactmine-api](https://tools.wmflabs.org/wikifactmine-api/)
-[factvis](https://tarrow.github.io/factvis)
+- [aaraa](https://tarrow.github.io/aaraa/index.html)
+- [fatameh](https://tools.wmflabs.org/fatameh/)
+- [wikifactmine-api](https://tools.wmflabs.org/wikifactmine-api/)
+- [factvis](https://tarrow.github.io/factvis)
 
 
 ### Support or Contact
