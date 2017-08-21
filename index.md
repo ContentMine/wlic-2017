@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome The ContentMine Workshop @ WLIC 2017
 
-You can use the [editor on GitHub](https://github.com/ContentMine/wlic-2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site is a collection of links that we'll be working through togther during our workshop at WLIC 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The permenant link to this page is: https://contentmine.github.io/wlic-2017
 
-### Markdown
+### Links to Demos
+#### WikiFactMine Links
+[aaraa](https://tarrow.github.io/aaraa/index.html)
+[fatameh](https://tools.wmflabs.org/fatameh/)
+[wikifactmine-api](https://tools.wmflabs.org/wikifactmine-api/)
+[factvis](https://tarrow.github.io/factvis)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ContentMine/wlic-2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you're looking for more information or support about any of the things we've discussed today then pelease come and find us after the workshop. Alternatively you can get in touch via info@contentmine.org
