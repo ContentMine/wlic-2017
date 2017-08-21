@@ -11,6 +11,11 @@ The permenant link to this page is: https://contentmine.github.io/wlic-2017
 - [wikifactmine-api](https://tools.wmflabs.org/wikifactmine-api/)
 - [factvis](https://tarrow.github.io/factvis)
 
+#### Facts and Wikidata
+- [Lars Willighagen's Card List](https://larsgw.github.io/ctj-cardlists/cardlist/)
+- [Wikidata Query Service](https://query.wikidata.org)
+- [Scholia](https://tools.wmflabs.org/scholia/)
+
 
 ### Support or Contact
 
