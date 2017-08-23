@@ -20,6 +20,8 @@ The permenant link to this page is: https://contentmine.github.io/wlic-2017
 - [ChemicalTagger](http://chemicaltagger.ch.cam.ac.uk/)
 - [Opsin](http://opsin.ch.cam.ac.uk/)
 
+#### ContentMine
+- [DataTables](https://github.com/contentmine/amidemos)
 
 ### Support or Contact
 
